@@ -1,0 +1,30 @@
+div.vcol {
+	width: 45%; float: left;  padding: 2%; margin-right: 1%; margin-bottom: 40px;
+	background: #52585c; text-align: center; border-color: #7a8288; 
+}
+	
+div.vcol:last-child { margin-right: 0; }
+div.vcol h2 { font-size: 20px; line-height: 40px; color: #FFF; text-shadow: 0 0 10px #0094AC; }
+div.vcol iframe { height: 100%; min-height: 243px; }
+div.clear { clear: both; }
+
+div.vcolumn { 
+	width: 45%; float: left; padding: 2%; margin-right: 1%; margin-bottom: 40px; 
+	background: #52585c; text-align: center; border-color: #7a8288; 
+}
+div.vcolumn:last-child { margin-right: 0; }
+div.vcolumn h2 { font-size: 20px; line-height: 40px; color: #FFF; text-shadow: 0 0 10px #0094AC; }
+
+div.vcolumn img { width:50%; height:auto; border:2px solid #FFF; box-shadow: 0 0 10px #0094AC; }
+div.vcolumn img:hover { width: 50%; height:auto; border:2px solid #FFF; box-shadow: 0 0 10px #00ddff; }
+
+#content {margin:50px auto; padding-bottom:50px; max-width:960px; line-height:25px; } 
+
+div.col { width:28%; float:left; margin-right:2%; padding:2%; background:#2b2f31; margin-bottom: 20px; }
+
+div.col:last-child { margin-right:0; }
+
+div.col img { width:100%; height:auto; border:2px solid #FFF; box-shadow: 0 0 10px #0094AC; }
+div.col img:hover { width:100%; height:auto; border:2px solid #FFF; box-shadow: 0 0 10px #00ddff; }
+
+div.col h2 { font-size:24px; line-height:36px; color:#2fb4e2; text-align:center; }
