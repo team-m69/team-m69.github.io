@@ -1,7 +1,7 @@
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
-const textArray = ["Discriminate LGBTQ", 'Love Porn & Hentai', 'Are Pedophiles', 'Like to whoop your asses'];
+const textArray = ["Discriminate LGBTQ but still r gay", 'are self promoters', 'Like to whoop your asses'];
 const typingDelay = 200;
 const erasingDelay = 100;
 const newTextDelay = 1000;
